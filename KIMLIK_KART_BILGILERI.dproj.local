@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2013.05.22 11:24:21.964.pas,D:\DOGAN\DOGAN\projeler\Unit1.pas=D:\DOGAN\DOGAN\projeler\PERSONEL_KIMLIK_SARIKAYA\UKIMLIK.pas</Transaction>
+    <Transaction>2013.05.22 11:24:21.964.dfm,D:\DOGAN\DOGAN\projeler\Unit1.dfm=D:\DOGAN\DOGAN\projeler\PERSONEL_KIMLIK_SARIKAYA\UKIMLIK.dfm</Transaction>
+    <Transaction>2013.05.22 11:24:31.753.dproj,D:\DOGAN\DOGAN\projeler\Project1.dproj=D:\DOGAN\DOGAN\projeler\PERSONEL_KIMLIK_SARIKAYA\KIMLIK_KART_BILGILERI.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
